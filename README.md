@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**denizcakr/denizcakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=blueviolet)
+```yaml
+name: -
+located_in: -
+current_job: -
+education:
+  [
+    "-",
+    "-"
+  ]
+certificates:
+  [
+    "-",
+    "-",
+  ]
+interests:
+  [
+    "Akif DORA",
+    "-",
+  ]
+```
+## GitHub Stats
+![denizcakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcakr&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcakr&layout=compact&theme=synthwave)](https://github.com/akifdora)
+## Languages
+![Langs](https://skillicons.dev/icons?i=py,")
+## Technologies
+![Techs](https://skillicons.dev/icons?i=vscode,git,bash,")
