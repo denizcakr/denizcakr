@@ -15,7 +15,7 @@ certificates:
   ]
 interests:
   [
-    "Akif DORA",
+    "-",
     "-",
   ]
 ```
