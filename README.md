@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/denizcakr)
 ```yaml
 name: Ezgi Deniz ÇAKIR
-located_in: Gebze, Kocaeli
+located_in: Gebze, KOCAELİ
 current_job: Software Developer
 education:
   [
