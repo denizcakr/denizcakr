@@ -24,4 +24,4 @@ interests:
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,py,c,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,bash,")
+![Techs](https://skillicons.dev/icons?i=linux,vscode,git,bash,")
