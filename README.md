@@ -19,7 +19,8 @@ certificates:
   ]
 interests:
   [
-    "JAVA",
+    "Java",
+    "Ruby",
     "Algorithms"
   ]
 ```
