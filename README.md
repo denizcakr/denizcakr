@@ -19,7 +19,7 @@ certificates:
   ]
 interests:
   [
-    "Cyber Security",
+    "JAVA",
     "Algorithms"
   ]
 ```
