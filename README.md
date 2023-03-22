@@ -22,7 +22,6 @@ interests:
     "C",
     "C++",
     "Java",
-    "Ruby",
     "Algorithms"
   ]
 ```
