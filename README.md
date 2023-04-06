@@ -1,5 +1,5 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=blueviolet)
-[![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)]
+[![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)
 ```yaml
 name: Ezgi Deniz ÇAKIR
 located_in: Gebze, KOCAELİ
