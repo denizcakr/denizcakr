@@ -1,6 +1,7 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=blueviolet)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ezgi-deniz-çakır-aa6615224/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/denizcakr)
+[![Instagram Badge] https://www.instagram.com/fortuna.den/
 ```yaml
 name: Ezgi Deniz ÇAKIR
 located_in: Gebze, KOCAELİ
