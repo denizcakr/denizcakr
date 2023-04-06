@@ -1,6 +1,10 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=blueviolet)
 ![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=whitehttps://www.instagram.com/fortuna.den/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ```yaml
+
 name: Ezgi Deniz ÇAKIR
 located_in: Gebze, KOCAELİ
 current_job: Software Developer
