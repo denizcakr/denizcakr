@@ -1,5 +1,7 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=blueviolet)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ```yaml
 
 name: Ezgi Deniz ÇAKIR
