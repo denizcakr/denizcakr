@@ -20,7 +20,7 @@ interests:
   [
     "C",
     "C++",
-    "Java",
+    "Python",
     "Algorithms"
   ]
 ```
