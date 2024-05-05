@@ -6,8 +6,8 @@ located_in: Gebze, KOCAELİ
 current_job: Software Developer
 education:
   [
-    "Software Developer in 42Kocaeli",
-    "Associate's in Web Programming in Anadolu University"
+    "42 Kocaeli - Software Developer | Student",
+    "Anadolu University - Web Programming"
   ]
 certificates:
   [
