@@ -29,4 +29,4 @@ interests:
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=c,cpp,py,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=linux,vscode,git,bash,")
+![Techs](https://skillicons.dev/icons?i=linux,vscode,git,bash,cmake,docker,kali,pycharm,linkedin,")
