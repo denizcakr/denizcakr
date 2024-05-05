@@ -1,4 +1,4 @@
-![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=red)
+![Github Badge](https://komarev.com/ghpvc/?username=denizcakr&color=brightgreen)
 ```yaml
 
 name: Ezgi Deniz ÇAKIR
@@ -25,8 +25,8 @@ interests:
   ]
 ```
 ## GitHub Stats
-![denizcakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcakr&show_icons=true&theme=radical) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcakr&layout=compact&theme=radical)
+![denizcakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcakr&show_icons=true&theme=dracula) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcakr&layout=compact&theme=dracula)
 ## Languages
-![Langs](https://skillicons.dev/icons?i=c,cpp,py,")
+![Langs](https://skillicons.dev/icons?i=c,cpp,py,html,css,")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=linux,vscode,git,bash,cmake,docker,kali,pycharm,linkedin,")
