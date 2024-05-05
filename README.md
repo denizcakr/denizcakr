@@ -25,7 +25,7 @@ interests:
   ]
 ```
 ## GitHub Stats
-![denizcakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcakr&show_icons=true&theme=dracula) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcakr&layout=compact&theme=dracula)
+![denizcakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcakr&show_icons=true&theme=cobalt) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcakr&layout=compact&theme=cobalt)
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=c,cpp,py,html,css,")
 ## Technologies
