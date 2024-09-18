@@ -29,6 +29,6 @@ interests:
 ## GitHub Stats
 ![denizcakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizcakr&show_icons=true&theme=cobalt) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcakr&layout=compact&theme=cobalt)
 ## Languages
-![Langs](https://skillicons.dev/icons?i=c,cpp,py,html,css,js")
+![Langs](https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=linux,vscode,git,bash,cmake,docker,kali,pycharm,linkedin,")
