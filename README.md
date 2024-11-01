@@ -3,7 +3,7 @@
 
 name: Ezgi Deniz ÇAKIR
 located_in: Gebze, KOCAELİ
-current_job: Software Developer
+current_job: Software QA Intern at HepsiJET
 education:
   [
     "42 Kocaeli - Software Developer | Student",
