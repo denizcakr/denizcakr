@@ -6,7 +6,7 @@ located_in: Gebze, KOCAELİ
 current_job: Software QA Intern at HepsiJET
 education:
   [
-    "42 Kocaeli - Software Developer | Student",
+    "42 Kocaeli - Software Developer | Member",
     "Anadolu University - Web Programming"
   ]
 certificates:
